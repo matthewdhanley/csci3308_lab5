@@ -1,0 +1,7 @@
+t 40801359e53fd7df643c965dc51aabcfd55b5323
+Merge: f116a0a fae8c38
+Author: maha2895 <maha2895@colorado.edu>
+Date:   Thu Feb 22 20:27:03 2018 -0700
+
+    Resolved conflicts
+
